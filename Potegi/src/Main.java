@@ -1,9 +1,19 @@
 import java.util.Scanner;
 
 public class Main {
+    static int[] tab = {1,2,3,4,5};
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        Potegi potegi = new Potegi(scanner.nextInt(), scanner.nextInt());
-        System.out.println(potegi.getWynik());
+
+        wyswietl("Adam");
+
+    }
+
+    public static void wyswietl(String imie){
+        switch (imie){
+            case "Adam":
+                System.out.println("Adamus");
+                break;
+
+        }
     }
 }
