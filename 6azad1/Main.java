@@ -1,7 +1,3 @@
-import pkg6azad1.person.Osoba;
-import pkg6azad1.person.Pracownik;
-import pkg6azad1.person.Uczen;
-
 public class Main {
 
     public static void main(String[] args) throws CloneNotSupportedException {
