@@ -1,6 +1,3 @@
-
-package pkg6azad1;
-
 import pkg6azad1.person.Osoba;
 import pkg6azad1.person.Pracownik;
 import pkg6azad1.person.Uczen;
